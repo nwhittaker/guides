@@ -36,6 +36,7 @@ helper:
   <tr><td>`height`</td><td>`inputmode`</td><td>`multiple`</td></tr>
   <tr><td>`step`</td><td>`width`</td><td>`form`</td></tr>
   <tr><td>`selectionDirection`</td><td>`spellcheck`</td><td>`type`</td></tr>
+  <tr><td>`list`</td></tr>
 </table>
 
 If these attributes are set to a quoted string, their values will be set
